@@ -1,0 +1,2 @@
+class MaterialStock < ApplicationRecord
+end
